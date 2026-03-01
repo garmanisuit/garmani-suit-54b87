@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://garmani-suit-54b87.pages.dev/sitemap.xml
+Sitemap: https://garmanisuit.github.io/garmani-suit-54b87/sitemap.xml
